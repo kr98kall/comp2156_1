@@ -10,7 +10,12 @@
         "deploy": "gh-pages -d build",
         "test": "echo \"Warning: No tests created yet.\"",
         "eject": "react-scripts eject"
+<<<<<<< Updated upstream
       },      
+=======
+      },
+      
+>>>>>>> Stashed changes
     "repository": {
         "type": "git",
         "url": "git+https://github.com/kr98kall/comp2156_1.git"
